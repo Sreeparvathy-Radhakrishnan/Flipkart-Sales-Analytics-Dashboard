@@ -14,7 +14,7 @@ This project is a hybrid SQL and BI development solution, emphasizing the follow
 
 📂 Data Source
 
-Dataset: Flipkart Sales Data (Transactional and Order Details)
+Dataset: Flipkart Sales Data (Transactional and Order Details)<br>
 Key Fields: Order ID, Product Name, Category, Price, Quantity Sold, Total Sales (INR), Order Date, Payment Method, and Customer Rating.
 
 🛠️ Data Cleaning and Transformation
@@ -48,10 +48,15 @@ The central goal of the dashboard is to provide an interactive and intuitive ana
 
 The final Power BI solution is structured across three primary pages, accessible via a user-friendly navigation layout:
 
-- Sales Overview : High-level summary of all KPIs, top-line financial metrics, and overall time-based sales trends.
--Product Insights	: Detailed analysis of category and product-level performance, highlighting best-sellers and revenue contribution.
--Customer and Payment Insights :	Focus on customer behavior, specifically distribution of customer ratings and analysis of payment method usage.
-
+- Sales Overview : High-level summary of all KPIs, top-line financial metrics, and overall time-based sales trends.<br><br>
+![Sales Overview](https://github.com/Sreeparvathy-Radhakrishnan/Flipkart-Sales-Analytics-Dashboard/blob/main/Dashboard%20Images/Product%20Insights.jpg)<br>
+*******
+-Product Insights	: Detailed analysis of category and product-level performance, highlighting best-sellers and revenue contribution.<br><br>
+![Sales Overview](https://github.com/Sreeparvathy-Radhakrishnan/Flipkart-Sales-Analytics-Dashboard/blob/main/Dashboard%20Images/Product%20Insights.jpg)<br>
+*******
+-Customer and Payment Insights :	Focus on customer behavior, specifically distribution of customer ratings and analysis of payment method usage.<br><br>
+![Sales Overview](https://github.com/Sreeparvathy-Radhakrishnan/Flipkart-Sales-Analytics-Dashboard/blob/main/Dashboard%20Images/Product%20Insights.jpg)<br>
+*******
 
 📊 Walkthrough of Key Visuals
 
@@ -87,12 +92,13 @@ This Flipkart Sales Analysis Dashboard successfully transforms raw transactional
 
 🎥 Demo
 
-Click the button below to explore the full, interactive Power BI Dashboard : [Live Demo]().
+Click the button below to explore the full, interactive Power BI Dashboard : [Live Demo](![Sales Overview](https://github.com/Sreeparvathy-Radhakrishnan/Flipkart-Sales-Analytics-Dashboard/blob/main/Dashboard%20Images/Product%20Insights.jpg)<br>
+*******).
 
 ✍️ Author
 
 Sreeparvathy Radhakrishnan
-[LinkedIn ]()
+[LinkedIn ](https://www.linkedin.com/in/sreeparvathy-radhakrishnan-151883249/)
 
 
 
