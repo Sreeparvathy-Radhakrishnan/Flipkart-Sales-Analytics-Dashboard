@@ -1,4 +1,5 @@
-Flipkart Sales Analysis Dashboard (PostgreSQL & Power BI)
+
+🚀 Flipkart Sales Analytics Dashboard 
 
 📌 Project Overview
 
@@ -48,17 +49,20 @@ The central goal of the dashboard is to provide an interactive and intuitive ana
 
 The final Power BI solution is structured across three primary pages, accessible via a user-friendly navigation layout:<br>
 
-Sales Overview <br>
+### Sales Overview <br>
 
 High-level summary of all KPIs, top-line financial metrics, and overall time-based sales trends.<br><br>
+
 ![Sales Overview](https://github.com/Sreeparvathy-Radhakrishnan/Flipkart-Sales-Analytics-Dashboard/blob/main/Dashboard%20Images/Sales%20Overview.jpg)<br>
 *******
-Product Insights	<br>
+
+### Product Insights	<br>
 
 Detailed analysis of category and product-level performance, highlighting best-sellers and revenue contribution.<br><br>
 ![Product Insights](https://github.com/Sreeparvathy-Radhakrishnan/Flipkart-Sales-Analytics-Dashboard/blob/main/Dashboard%20Images/Product%20Insights.jpg)<br>
 *******
-Customer and Payment Insights <br>
+
+### Customer and Payment Insights <br>
 
 Focus on customer behavior, specifically distribution of customer ratings and analysis of payment method usage.<br><br>
 ![Customer and Payment Insights](https://github.com/Sreeparvathy-Radhakrishnan/Flipkart-Sales-Analytics-Dashboard/blob/main/Dashboard%20Images/Customer%20and%20Payment%20Insights.jpg)<br>
@@ -66,25 +70,25 @@ Focus on customer behavior, specifically distribution of customer ratings and an
 
 📊 Walkthrough of Key Visuals
 
-The dashboard employs dynamic visuals powered by custom DAX measures to communicate insights effectively.
+The dashboard employs dynamic visuals powered by custom DAX measures to communicate insights effectively.<br>
 
 Page 1: Sales Overview<br>
 
--Total Sales and Total Orders (Card Visuals)
--Monthly Sales Trend (Line Chart)
--Total Sales by Category (Bar Chart)
+- Total Sales and Total Orders (Card Visuals)
+- Monthly Sales Trend (Line Chart)
+- Total Sales by Category (Bar Chart)
 
 Page 2: Product Insights<br>
 
--Top 10 Products by Revenue (Table Visual)
--Product Count by Category (Donut Chart)
--Average Price by Product (Bar Chart)
+- Top 10 Products by Revenue (Table Visual)
+- Product Count by Category (Donut Chart)
+- Average Price by Product (Bar Chart)
 
 Page 3: Customer and Payment Insights<br>
 
--Total Orders by Payment Method (Pie Chart)
--Customer Rating Distribution (Column Chart)
--Orders by Customer Location (Bar Chart)
+- Total Orders by Payment Method (Pie Chart)
+- Customer Rating Distribution (Column Chart)
+- Orders by Customer Location (Bar Chart)
 
 🚀 Future Enhancements
 
@@ -103,7 +107,7 @@ Click the button below to explore the full, interactive Power BI Dashboard : [Li
 
 ✍️ Author
 
-Sreeparvathy Radhakrishnan
+Sreeparvathy Radhakrishnan<br>
 [LinkedIn ](https://www.linkedin.com/in/sreeparvathy-radhakrishnan-151883249/)
 
 
@@ -115,9 +119,4 @@ Sreeparvathy Radhakrishnan
 
 
 
-
-
-
-
-Tools
 
